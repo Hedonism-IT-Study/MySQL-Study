@@ -25,7 +25,7 @@
 |3~4.1. [사용자 및 권한, 아키텍처](https://github.com/Hedonism-IT-Study/MySQL-Study/issues/2)|2022.05.19|이지원|:heavy_check_mark:|
 |4.2~4.4. [아키텍처](https://github.com/Hedonism-IT-Study/MySQL-Study/issues/3)|2022.05.26|이지원|:heavy_check_mark:|
 |5~6. [트랜잭션과 잠금, 데이터 압축](https://github.com/Hedonism-IT-Study/MySQL-Study/issues/4)|2022.06.09|남상윤|:heavy_check_mark:|
-|7~8.3. [데이터 암호화, 인덱스](https://github.com/Hedonism-IT-Study/MySQL-Study/issues/5)|2022.06.16|박동진||
+|7~8.3. [데이터 암호화, 인덱스](https://github.com/Hedonism-IT-Study/MySQL-Study/issues/5)|2022.06.16|박동진|:heavy_check_mark:|
 |8.4~8.10. 인덱스|2022.06.23|김완기||
 |9.1~9.2. 옵티마이저와 힌트|2022.06.30|윤원철||
 |9.3~9.4. 옵티마이저와 힌트|2022.07.07|박동진||
