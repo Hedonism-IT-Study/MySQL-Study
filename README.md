@@ -30,4 +30,4 @@
 |9.1~9.2. [옵티마이저와 힌트](https://github.com/Hedonism-IT-Study/MySQL-Study/issues/7)|2022.06.30|윤원철|:heavy_check_mark:|
 |9.3. [옵티마이저와 힌트](https://github.com/Hedonism-IT-Study/MySQL-Study/issues/8)|2022.07.07|박동진|:heavy_check_mark:|
 |9.4~10.2. [실행 계획](https://github.com/Hedonism-IT-Study/MySQL-Study/issues/9)|2022.07.14|남상윤|:heavy_check_mark:|
-|10.3. 실행 계획|2022.07.21|김완기||
+|10.3. [실행 계획](https://github.com/Hedonism-IT-Study/MySQL-Study/issues/10)|2022.07.21|김완기||
